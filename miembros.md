@@ -3,8 +3,8 @@
 * Nick Fury
 * Black panther
 * Black Widow
-* Capitán America
 * Capitán Marvel
+* Capitan America
 * Falcon
 * Hank Pym
 * Hawkeye
